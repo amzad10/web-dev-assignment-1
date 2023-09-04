@@ -1,0 +1,91 @@
+body {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+}
+
+/* header section */
+.header {
+
+    background-color: rgba(229, 84, 115, 0.10);
+    padding: 30px 0px 0px 150px;
+    background-image: url('../images/pngwing\ 10.png');
+    background-repeat: no-repeat;
+    background-size: 300px;
+    background-position: bottom right, top left;
+
+}
+
+
+
+.header-title {
+    font-weight: 800;
+    font-size: 50px;
+}
+
+.header-contant {
+    max-width: 500px;
+}
+
+.btn-on {
+    border-radius: 8px;
+    background: #E55473;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 36px;
+}
+
+/* main content */
+.hot-deal-section {
+    background: rgba(229, 84, 115, 0.05);
+    padding: 30px 0px 0px 150px;
+    border-radius: 8px;
+    background-image: url('../images/pngwing\ 8.png');
+    background-repeat: no-repeat;
+    background-size: 150px;
+    background-position: bottom right, top left;
+    
+    
+}
+
+.hot-deal-contant{
+    max-width: 500px;
+}
+
+
+
+/* footer content */
+.footer-content {
+    background: #111010;
+}
+
+#text-primary {
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+#text-secondary {
+    color: #FFF;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.footer-content {
+    text-align: center;
+}
+
+.foot-content-1 {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.foot-content-2 {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+}
