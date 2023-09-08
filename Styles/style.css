@@ -61,7 +61,8 @@ body {
     margin-top: 100px;
 
 }
-.flower-tree{
+
+.flower-tree {
     display: flex;
     gap: 24px;
     padding: 30px 150px;
@@ -99,8 +100,22 @@ body {
 
 
 }
+.instagram-section{
+    margin-top: 100px;
+}
+.instagram-flowers {
+    display: flex;
+}
 
+.img-column {
 
+    flex: 30%;
+    padding: 5px;
+}
+
+img {
+    width: 100%;
+}
 
 .banner {
 
